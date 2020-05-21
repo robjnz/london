@@ -132,41 +132,42 @@
       <div class="grid sm:flex">
         <severndroog /><!--Severndroog Castle-->
         <shirley/><!--Shirley Windmill-->
-        <antioch /><!--St. Margaret of Antioch-->
-         </div>
+        <southwarkcath /><!--Southwark Cathedral-->
+     </div>
       <div class="grid sm:flex">
+        <antioch /><!--St. Margaret of Antioch-->
         <pauls /><!--St. Pauls Cathedral-->
         <stephens /><!--Stephens house-->
-        <sutton /><!--Sutton House-->
          </div>
       <div class="grid sm:flex">
+        <sutton /><!--Sutton House-->
+        <tate /><!--Tate Modern -->
         <thames /><!--Thames Barrier-->
+         </div>
+      <div class="grid sm:flex">
         <totteridge /><!--Totteridge fields-->
         <towerbridge /><!--Tower Bridge-->
+        <tower /><!--Tower Of London-->
          </div>
       <div class="grid sm:flex">
-        <tower /><!--Tower Of London-->
         <trinity /><!--Trinity Buoy Wharf-->
         <upminster /><!--Upminster Windmill-->
+        <valence /><!--Valence House Museum-->
          </div>
       <div class="grid sm:flex">
-        <valence /><!--Valence House Museum-->
         <valentines /><!--Valentines Mansion-->
         <victoriaalbert /><!--Victoria & Albert Museum-->
+        <victoria /><!--Victoria Park-->
          </div>
       <div class="grid sm:flex">
-        <victoria /><!--Victoria Park-->
         <viktor /><!--Viktor Wyne Museum-->
         <wandsworthcommon /><!--Wandsworth Common-->
+        <wanstead /><!--Wansted Park-->
          </div>
       <div class="grid sm:flex">
-        <wanstead /><!--Wansted Park-->
         <william /><!--William Morris Gallery-->
         <wimbledoncommon /><!--Wimbledon Common-->
-         </div>
-      <div class="grid sm:flex">
         <wimbledonmill /><!--Wimbledon Windmill-->
-    
       </div>
     <br />
     </div>
@@ -269,6 +270,8 @@ import army from "@/components/Visit/army";
 import carlyle from "@/components/Visit/carlyle";
 import brockwell from "@/components/Visit/brockwell";
 import ashby from "@/components/Visit/ashby";
+import tate from "@/components/Visit/tate";
+import southwarkcath from "@/components/Visit/southwarkcath";
 
 import date from "@/components/Home/date";
 
@@ -379,6 +382,8 @@ export default {
     carlyle,
     brockwell,
     ashby,
+    tate,
+    southwarkcath,
     date,
   }
 };
