@@ -2,20 +2,25 @@
   <Layout>
     
     <div id="background" class="container m-auto">
-      <h1 class="ml-12 mt-16 mb-16 text-4xl text-red-600">
+      <h1 class="ml-6 mt-16 mb-16 text-4xl text-red-600">
         Top 20 Things To Do In London Today
       </h1>
     
       
         <g-image
           class = "w-full h-full object-cover"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_150,w_600/v1515831480/tower_vow6im.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_150,w_560/v1515831480/tower_vow6im.jpg"
           alt   = "tower of london"
       />
       
       <!--<date class="ml-8"/>-->
+
+    
+        <br />
+     <on />
+      
      
-        <on />
+        
     </div>
     <br />
   </Layout>
@@ -29,6 +34,7 @@ import on from "@/components/Home/on";
 import film from "@/components/Home/film";
 import theatre from "@/components/Home/theatre";
 import night from "@/components/Home/night";
+
 import date from "@/components/Home/date";
 
 export default {
@@ -56,7 +62,7 @@ export default {
     film,
     theatre,
     night,
-    date
+    date,
   }
 };
 </script>
