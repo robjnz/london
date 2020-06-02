@@ -25,11 +25,11 @@ London
         >
           E6 5NX
         </g-link>
-        <br /><br />
+       
        
       </p>
 
-     <br /><br /><br />
+     <br />
 
       <g-link
         class  = "text-red-700 hover:text-white"

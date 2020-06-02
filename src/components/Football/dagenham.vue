@@ -25,10 +25,10 @@
         >
           RM10 8BJ
         </g-link>
-        <br /><br />
+        
       </p>
 
-      <br /><br /><br />
+      <br />
 
       <g-link
         class  = "text-red-700 hover:text-white"

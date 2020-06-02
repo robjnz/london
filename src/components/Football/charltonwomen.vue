@@ -31,8 +31,7 @@
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sun 19 April <br /><span class="text-red-700">V</span> <br />Durham
-        <br />
+        
   
       </p>
 

@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div id="background" class="container ml-8">
+    <div id="background" class="container m-auto">
       <h1 class="ml-8 mt-16 text-4xl text-red-600">
         <span class="text-pink-300">
           <i class="fas fa-futbol"></i>

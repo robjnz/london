@@ -31,7 +31,7 @@
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sat 25 April 5.20 pm <br /><span class="text-red-700">V</span> <br />Chesterfield
+       
         
         
      

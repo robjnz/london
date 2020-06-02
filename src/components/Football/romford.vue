@@ -33,8 +33,7 @@
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sat 18 April - 3 pm <br /><span class="text-red-700">V</span>
-        <br />Derham Town
+        
       </p>
 
       <g-link

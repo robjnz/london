@@ -32,10 +32,7 @@
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sat 25 April 3pm<br /><span class="text-red-700">V</span> <br />Chipstead
-        
-        <br />
-   
+      
       </p>
 
       <g-link

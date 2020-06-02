@@ -108,75 +108,78 @@
         <museumlondon /><!--museum of london-->
         <army /><!--National Army Museum-->
         <natural /><!-- Natural History Museum-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <newham /><!--Newham City Farm-->
         <queen /><!--Queen Elizabeth Olympic Park-->
         <pitzhanger /><!--Pitzhanger Manor House-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <ragged /><!--Ragged School Museum-->
         <rainham /><!--Rainham Hall-->
         <ranger /><!--Ranger’s House-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <red /><!--Red house-->
         <regentscanal /><!--Regent’s Canal-->
         <regentspark /><!--Regent’s Park-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <roundwood /><!--Roundwood Park-->
         <airforce /><!--Royal Air Force Museum-->
         <greenwich /><!--Royal Museums Greenwich-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <ruislip /><!--Ruislip Woods -->
         <saatchi /> <!--Saatchi Gallery-->
         <science /><!--Science Museum-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <serpentine /><!--Serpentine Galleries-->
         <severndroog /><!--Severndroog Castle-->
         <shirley/><!--Shirley Windmill-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <southwarkcath /><!--Southwark Cathedral-->
         <antioch /><!--St. Margaret of Antioch-->
         <pauls /><!--St. Pauls Cathedral-->
-         </div>
+        </div>
       <div class="grid sm:flex">
         <stephens /><!--Stephens house-->
         <sutton /><!--Sutton House-->
         <britain /><!--Tate Brittain-->
-      </div>
+        </div>
       <div class="grid sm:flex">
         <tate /><!--Tate Modern -->
         <thames /><!--Thames Barrier-->
-        <operating /><!--The Old Operating Theatre-->
+        <national/><!--the national Gallery-->
         </div>
       <div class="grid sm:flex">
+        <operating /><!--The Old Operating Theatre-->
         <totteridge /><!--Totteridge fields-->
         <towerbridge /><!--Tower Bridge-->
-        <tower /><!--Tower Of London-->
         </div>
       <div class="grid sm:flex">
+        <tower /><!--Tower Of London-->
         <trinity /><!--Trinity Buoy Wharf-->
         <upminster /><!--Upminster Windmill-->
-        <valence /><!--Valence House Museum-->
         </div>
       <div class="grid sm:flex">
+        <valence /><!--Valence House Museum-->
         <valentines /><!--Valentines Mansion-->
         <victoriaalbert /><!--Victoria & Albert Museum-->
-        <victoria /><!--Victoria Park-->
         </div>
       <div class="grid sm:flex">
+        <victoria /><!--Victoria Park-->
         <viktor /><!--Viktor Wyne Museum-->
         <wandsworthcommon /><!--Wandsworth Common-->
-        <wanstead /><!--Wansted Park-->
         </div>
       <div class="grid sm:flex">
+        <wanstead /><!--Wansted Park-->
         <william /><!--William Morris Gallery-->
         <wimbledoncommon /><!--Wimbledon Common-->
+        </div>
+      <div class="grid sm:flex">
         <wimbledonmill /><!--Wimbledon Windmill-->
        </div>
 
@@ -291,6 +294,7 @@ import operating from "@/components/Visit/operating";
 import clink from "@/components/Visit/clink";
 import warrooms from "@/components/Visit/warrooms";
 import britain from "@/components/Visit/britain";
+import national from "@/components/Visit/national";
 
 import date from "@/components/Home/date";
 
@@ -409,6 +413,7 @@ export default {
     clink,
     warrooms,
     britain,
+    national,
     date,
   }
 };

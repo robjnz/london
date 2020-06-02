@@ -28,16 +28,14 @@
         <br /><br />
         
       </p>
-<!--
+
       <p class="text-pink-200 text-center">
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Mon 13 April 3 pm <br /><span class="text-red-700">V</span>
-        <br />Salford City
+        
       </p>
--->
-<br /><br /><br />
+
      
       <g-link
         class  = "text-red-700 hover:text-white"

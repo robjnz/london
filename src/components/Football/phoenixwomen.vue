@@ -25,18 +25,17 @@
         >
           DA7 6JT
         </g-link>
-        <br /><br />
+       
       </p>
-<!--
+
       <p class="text-pink-200 text-center">
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sat 25 April 3 pm <br /><span class="text-red-700">V</span>
-        <br />Ramsgate
+      
       </p>
--->
-<br /><br /><br />
+    <br />
+
       <g-link
         class  = "text-red-700 hover:text-white"
         to     = "http://bit.ly/3akAaiJ"

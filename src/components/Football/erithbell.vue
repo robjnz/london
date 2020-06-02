@@ -22,11 +22,11 @@
         >
           DA16 1SY
         </g-link>
-        <br /><br />
+       
         <!-- #erithbelvedere -->
       </p>
 
-      <br /><br /><br />
+      <br />
 
       <g-link
         class  = "text-red-700 hover:text-white"

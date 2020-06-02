@@ -33,7 +33,7 @@
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sat 25 April<br /><span class="text-red-700">V</span> <br />Little Oakley
+       
         
       
     </p>

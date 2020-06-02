@@ -31,16 +31,10 @@
         <span class="text-pink-300">
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sat 18 April - 3 pm <br /><span class="text-red-700">V</span>
-        <br />Burnley
+       
       </p>
 
-            <!--
-
-Sat 18 April 2020 @ 3pm <br>V<br>Burnley<br>
-Sat 2 May 2020 @ 3pm <br>V<br>Watford<br>
-Sun 17 May 2020 @ 3pm <br>V<br>Aston Villa<br>
--->
+   
       <g-link
         class  = "text-red-700 hover:text-white"
         to     = "http://bit.ly/2QrI8B7"

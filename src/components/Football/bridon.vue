@@ -25,9 +25,9 @@
         >
           SE7 8QS
         </g-link>
-        <br /><br /><br /><br /><br />
+        
       </p>
-
+<br />
       <g-link
         class  = "text-red-700 hover:text-white"
         to     = "http://bit.ly/2PiEW5u"
