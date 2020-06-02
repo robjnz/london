@@ -7,8 +7,8 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.0",
-    "gridsome": "^0.7.14",
+    "@gridsome/plugin-google-analytics": "^0.1.1",
+    "gridsome": "^0.7.15",
     "jshint": "^2.11.1"
   },
   "devDependencies": {
