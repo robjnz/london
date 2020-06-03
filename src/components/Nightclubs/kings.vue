@@ -23,12 +23,12 @@
           IG11 8ET
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Rugbys 7s</h5>
+      <h5 class="text-2xl text-pink-300">Closed</h5>
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Sat 23 May 2020 10 pm - 4.30 am
+     
       </p>
      
 
