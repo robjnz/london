@@ -25,6 +25,11 @@
         <brockwell /><!--Brockwell Park-->
          </div>
       <div class="grid sm:flex">
+        <mews /><!--THE ROYAL MEWS-->
+        <gallery /><!--The Queens Gallery-->
+        <buckingham /><!--Buckingham Palace-->
+      </div>
+      <div class="grid sm:flex">
         <carlyle /> <!--Carlyle's House -->
         <chingford /><!--Chingford Sky Trail-->
         <chislehurst /><!--Chislehurst Caves-->
@@ -176,15 +181,14 @@
         </div>
       <div class="grid sm:flex">
         <wanstead /><!--Wansted Park-->
+        <westminster /> <!--Westminster Abbey-->
         <william /><!--William Morris Gallery-->
-        <wimbledoncommon /><!--Wimbledon Common-->
-        </div>
+         </div>
       <div class="grid sm:flex">
-        <wimbledonmill /><!--Wimbledon Windmill-->
+        <wimbledoncommon /><!--Wimbledon Common-->
+       <wimbledonmill /><!--Wimbledon Windmill-->
        </div>
 
-       <div class="grid sm:flex">
-       </div>
     <br />
     </div>
   </Layout>
@@ -295,6 +299,10 @@ import clink from "@/components/Visit/clink";
 import warrooms from "@/components/Visit/warrooms";
 import britain from "@/components/Visit/britain";
 import national from "@/components/Visit/national";
+import westminster from "@/components/Visit/westminster";
+import buckingham from "@/components/Visit/buckingham";
+import mews from "@/components/Visit/mews";
+import gallery from "@/components/Visit/gallery";
 
 import date from "@/components/Home/date";
 
@@ -414,6 +422,10 @@ export default {
     warrooms,
     britain,
     national,
+    westminster,
+    buckingham,
+    mews,
+    gallery,
     date,
   }
 };
