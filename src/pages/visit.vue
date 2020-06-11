@@ -246,7 +246,7 @@ import stephens from "@/components/Visit/north/stephens";
 import airforce from "@/components/Visit/north/airforce";
 import totteridge from "@/components/Visit/north/totteridge";
 import fenton from "@/components/Visit/north/fenton";
-import zoo from "@/components/Visit/north/zoo";
+import zoo from "@/components/Visit/zoo";
 import freud from "@/components/Visit/north/freud";
 import down from "@/components/Visit/down";
 import crystalV from "@/components/Visit/crystalV";
