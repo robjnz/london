@@ -26,7 +26,7 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-2xl text-green-300">Open</h5>
+       <h5 class=" mb-4 text-2xl text-green-300"></h5>
       <article class="text-blue-200">
   Collection of 673 species<br /> of animals....... 
   <input id="read-more-zoo-1" class="read-more-zoo" type="checkbox">

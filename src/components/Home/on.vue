@@ -13,7 +13,7 @@ Monday 15 June 2020
       <h1 class="text-red-500  text-2xl">
         <span class="text-pink-300" style="font-size: 1em;">
           <i class="fas fa-virus"></i>
-        </span> Some Parks & Gardens Are Still Open
+        </span> 
         <span class="text-pink-300" style="font-size: 1em;">
             <i class="fas fa-hands-wash"></i>
             <i class="fas fa-people-arrows"></i>
