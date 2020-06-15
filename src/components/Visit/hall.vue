@@ -24,7 +24,9 @@
         </g-link>
       </p>
 
-     <h5 class="text-2xl text-pink-300">Closed</h5>
+     <h5 class="text-2xl text-green-300">Gardens Open</h5>
+    <h5 class="text-2xl text-pink-300"></h5>
+
      <br />
       <p class="text-pink-300">
         <span>

@@ -8,7 +8,7 @@
         <span style="font-size: 1em;">
           <i class="far fa-calendar-alt"></i>
         </span>
-Sunday 14 June 2020
+Monday 15 June 2020
       </h3>
       <h1 class="text-red-500  text-2xl">
         <span class="text-pink-300" style="font-size: 1em;">
@@ -41,8 +41,8 @@ Sunday 14 June 2020
 
       <div class="grid sm:flex">
         <lee /><!--Lee Valley-->
+        <zoo /><!--london zoo-->
         <marblehouse /><!--MARBLE HILL HOUSE -->
-        <mudchute /><!--mudchute-->
         </div>
 
       <div class="grid sm:flex">
@@ -164,6 +164,7 @@ import hampstead from "@/components/Visit/hampstead";
 import regentspark from "@/components/Visit/regentspark";
 import regentscanal from "@/components/Visit/regentscanal";
 import brockwell from "@/components/Visit/brockwell";
+import zoo from "@/components/Visit/zoo";
 
 
  
@@ -257,6 +258,7 @@ export default {
     regentspark,
     regentscanal,
     brockwell,
+    zoo,
   }
   
 };

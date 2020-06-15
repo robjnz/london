@@ -22,7 +22,7 @@
           E3 5TB
         </g-link>
       </p>
-             <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+             <h5 class=" mb-4 text-2xl text-green-300">Open</h5>
 
       <g-link
         class  = "text-red-700 hover:text-white"

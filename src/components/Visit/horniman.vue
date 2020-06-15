@@ -23,7 +23,7 @@
         </g-link>
       </p>
 
-            <h5 class=" mb-4 text-2xl text-pink-300">Gardens Open</h5>
+            <h5 class=" mb-4 text-2xl text-green-300">Gardens Open</h5>
 
 
       <g-link
