@@ -8,7 +8,7 @@
         <span style="font-size: 1em;">
           <i class="far fa-calendar-alt"></i>
         </span>
-Friday 19 June 2020
+Saturday 20 June 2020
       </h3>
       <h1 class="text-red-500  text-2xl">
         <span class="text-pink-300" style="font-size: 1em;">
@@ -64,7 +64,9 @@ Friday 19 June 2020
        
       </div>
       
-<football />
+<div class="grid sm:flex">
+         <book />
+       </div>
 
    </div>
   
@@ -165,6 +167,7 @@ import regentspark from "@/components/Visit/regentspark";
 import regentscanal from "@/components/Visit/regentscanal";
 import brockwell from "@/components/Visit/brockwell";
 import zoo from "@/components/Visit/zoo";
+import book from "@/components/amazon/book";
 
 
  
@@ -258,7 +261,8 @@ export default {
     regentspark,
     regentscanal,
     brockwell,
-    zoo
+    zoo,
+    book
   }
   
 };
