@@ -190,6 +190,10 @@
        <wimbledonmill /><!--Wimbledon Windmill-->
        </div>
 
+       <div class="grid sm:flex">
+         <book />
+       </div>
+
     <br />
     </div>
   </Layout>
@@ -305,6 +309,7 @@ import buckingham from "@/components/Visit/buckingham";
 import mews from "@/components/Visit/mews";
 import gallery from "@/components/Visit/gallery";
 import clarence from "@/components/Visit/clarence";
+import book from "@/components/amazon/book";
 
 import date from "@/components/Home/date";
 
@@ -430,6 +435,7 @@ export default {
     gallery,
     clarence,
     date,
+    book
   }
 };
 </script>

@@ -14,13 +14,10 @@
       />
       
       <!--<date class="ml-8"/>-->
-
     
         <br />
      <on />
-      
      
-        
     </div>
     <br />
   </Layout>

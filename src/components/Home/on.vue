@@ -64,7 +64,7 @@ Friday 19 June 2020
        
       </div>
       
-
+<football />
 
    </div>
   
@@ -258,7 +258,7 @@ export default {
     regentspark,
     regentscanal,
     brockwell,
-    zoo,
+    zoo
   }
   
 };
