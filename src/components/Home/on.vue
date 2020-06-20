@@ -22,7 +22,7 @@ Saturday 20 June 2020
         <br />
 
 <div class="grid sm:flex">
-      <battersea /><!--Battersea Park-->
+      <batterseazoo /><!--Battersea Park Children’s Zoo-->
       <bethune /><!--Bethune Nature reserve-->
       <bexley /><!--bexleyWoods-->
       </div>
@@ -34,15 +34,16 @@ Saturday 20 June 2020
       </div>
 
       <div class="grid sm:flex">
-        <fairlop /><!--Fairlop Waters Park-->
+        <hall /><!--Hall Place & Gardens-->
         <hampstead /><!--Hampstead Heath-->
-        <havering /><!--Havering Country Park-->
+        <kew /><!--Kew Gardens -->
+
         </div>
 
       <div class="grid sm:flex">
-        <lee /><!--Lee Valley-->
         <zoo /><!--london zoo-->
         <marblehouse /><!--MARBLE HILL HOUSE -->
+        <morden /><!--MORDEN HALL PARK-->
         </div>
 
       <div class="grid sm:flex">
@@ -53,7 +54,7 @@ Saturday 20 June 2020
 
       <div class="grid sm:flex">
         <roundwood /><!--Roundwood Park-->
-        <ruislip /><!--Ruislip Woods -->
+        <stephens /><!--Stephens house-->
         <totteridge /><!--Totteridge fields-->
         </div>
 
@@ -158,7 +159,7 @@ import crystalV from "@/components/Visit/crystalV";
 import totteridge from "@/components/Visit/north/totteridge";
 import wandsworthcommon from "@/components/Visit/wandsworthcommon";
 import wimbledoncommon from "@/components/Visit/wimbledoncommon";
-import battersea from "@/components/Visit/battersea";
+import batterseazoo from "@/components/Visit/batterseazoo";
 import roundwood from "@/components/Visit/roundwood";
 import ruislip from "@/components/Visit/ruislip";
 import marblehouse from "@/components/Visit/marblehouse";
@@ -167,6 +168,10 @@ import regentspark from "@/components/Visit/regentspark";
 import regentscanal from "@/components/Visit/regentscanal";
 import brockwell from "@/components/Visit/brockwell";
 import zoo from "@/components/Visit/zoo";
+import kew from "@/components/Visit/kew";
+import morden from "@/components/Visit/morden";
+import stephens from "@/components/Visit/stephens";
+
 import book from "@/components/amazon/book";
 
 
@@ -253,7 +258,7 @@ export default {
     totteridge,
     wandsworthcommon,
     wimbledoncommon,
-    battersea,
+    batterseazoo,
     roundwood,
     ruislip,
     marblehouse,
@@ -262,6 +267,9 @@ export default {
     regentscanal,
     brockwell,
     zoo,
+    kew,
+    morden,
+    stephens,
     book
   }
   
