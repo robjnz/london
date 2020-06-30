@@ -25,7 +25,16 @@
       </p>
 
      <h5 class="text-2xl text-pink-300">Gardens Open</h5>
-    <h5 class="text-2xl text-pink-300"></h5>
+     <h5 class=" mb-4 text-base text-orange-300">
+        <br />
+      Adults: £8.00 <br />Concession £7.00 <br />Children: £4.00<br /> Family: £20.00 
+<br />
+      Gardens are Free To Visit<br /><br />
+      Opening Times: Mon To Sun <br />9am To 9:30pm
+
+      
+
+      </h5>
 
      <br />
       <p class="text-pink-300">
@@ -34,6 +43,18 @@
         </span>
 <!--Sun 22 March-->
       </p>
+
+<br />
+       <article class="text-blue-200">
+
+          Hall Place is a Grade I listed<br /> country house built in 1537...... 
+<input id="read-more-hall-1" class="read-more-hall" type="checkbox">
+  <div class="read-more-content">
+<br />
+The Secret Wartime History <br />of Hall Place explores<br /> how American soldiers stationed <br />at Hall Place – code name Santa Fe –<br /> intercepted encoded messages <br />sent by the Germans.
+  </div>
+<label class="read-more-hall-label text-red-700 hover:text-white" for="read-more-hall-1">Read </label>
+</article>
 
       <g-link
         class  = "text-red-700 hover:text-white"
@@ -45,3 +66,38 @@
     </div>
   </div>
 </template>
+
+<style>
+
+
+.read-more-content {
+  max-height: 0;
+  overflow  : hidden;
+  transition: max-height .5s ease;
+}
+.read-more-hall {
+  display: none;
+}
+.read-more-hall-label {
+  display    : inline-block;
+  user-select: none;
+  cursor     : pointer;
+  border     : none;
+  padding    : 5px;
+  margin     : .5em;
+  font-size  : 16px;
+}
+.read-more-hall-label:after {
+  content: "More";
+  display: inline-block;
+}
+.read-more-hall:checked + .read-more-content {
+  display: block;
+  /* css animation won't work with "auto"; set to some height larger
+    than the content */
+  max-height: 1000px;
+}
+.read-more-hall:checked + .read-more-content + .read-more-hall-label:after {
+  content: "Less";
+}
+</style>

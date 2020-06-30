@@ -25,6 +25,19 @@
           NW1 4RY
         </g-link>
       </p>
+
+       <h5 class="text-2xl text-pink-300"></h5>
+     <h5 class=" mb-4 text-base text-orange-300">
+        <br />
+      Adults: £32.50 Concession £29.25 <br />Children: £21.12 
+<br /><br />
+   
+      Opening Times: Mon To Sun<br />
+      Morning 10am To 2pm <br /> Afternoon 2pm To 6pm <br />Required To Book Online<br />
+
+      
+
+      </h5>
       
        <h5 class=" mb-4 text-2xl text-green-300"></h5>
       <article class="text-blue-200">

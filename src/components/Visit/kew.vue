@@ -24,6 +24,18 @@
       </p>
       
       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        <br />
+      Adults: £9.00 <br />Concession £8.00 <br />Children: £4.50
+<br />Family: £21.00<br />
+   <br />
+      Opening Times: Mon To Sun<br />
+      10am To 6pm <br />
+      Required To Book Online<br />
+
+      
+
+      </h5>
       
       <!--
       <p class="text-pink-300">

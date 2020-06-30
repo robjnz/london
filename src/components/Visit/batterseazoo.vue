@@ -22,8 +22,23 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+      <h5 class=" mb-4 text-base text-orange-300">
+        <br />
+      Adults: £9.95 children: £7.95 <br />Family: £32.50
+<br /><br />
+      Opening Times: Mon To Sun <br />10am To 5.30pm
+      <br />Required To Book Online
+      <br /><br />
+       <g-link
+        class  = "text-red-700 hover:text-white"
+        to     = "https://bit.ly/2NFRLIz"
+        target = "_blank"
+      >
+       Feeding Times
+      </g-link>
       
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>
@@ -32,6 +47,7 @@
        Thurs 19 March
       
       </p>
+      
       -->
       <article class="text-blue-200">
 

@@ -41,7 +41,7 @@ export default {
       {
         name   : "description",
         content: 
-          "Top 21 Things to do in London today, places of historical interest to visit for days out, theatres, nightclubs, Rugby & football matches, and much more!"
+          "Top 21 Things to do in London today, places of historical interest to visit for days out, London Zoo, Kew Gardens, theatres, nightclubs, Rugby & football matches, and much more!"
       }
     ],
     script: [
