@@ -29,7 +29,7 @@
         <br />
       Adults: £8.00 <br />Concession £7.00 <br />Children: £4.00<br /> Family: £20.00 
 <br />
-      Gardens are Free To Visit<br /><br />
+      Gardens Are Free To Visit<br /><br />
       Opening Times: Mon To Sun <br />9am To 9:30pm
 
       

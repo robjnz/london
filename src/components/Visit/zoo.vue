@@ -29,7 +29,7 @@
        <h5 class="text-2xl text-pink-300"></h5>
      <h5 class=" mb-4 text-base text-orange-300">
         <br />
-      Adults: £32.50 Concession £29.25 <br />Children: £21.12 
+      Adults: £32.50 <br />Concession £29.25 <br />Children: £21.12 
 <br /><br />
    
       Opening Times: Mon To Sun<br />
