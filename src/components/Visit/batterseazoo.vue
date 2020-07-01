@@ -26,7 +26,7 @@
         <br />
       Adults: £9.95 <br />Children: £7.95 <br />Family: £32.50
 <br /><br />
-      Opening Times: Mon To Sun <br />10am To 5.30pm
+      Opening Times: <br />Mon To Sun <br />10am To 5.30pm
       <br />Required To Book Online
       <br /><br />
        <g-link

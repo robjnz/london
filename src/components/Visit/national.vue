@@ -24,17 +24,38 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 8 July</h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        <br />
+      Admission free<br />
+      Required To Book Online
+<br /><br />
+   
+      Opening Times: <br />Mon To Sun<br />
+      11am to 4pm<br />
+      Friday closes 9pm<br />
       
-      <!--
+
+      </h5>
+      
+      
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
-      
+       Thursday 9 July 2020 4:00pm<br />
+      Bellini’s The Assassination of <br />Saint Peter Martyr
       </p>
-      -->
+      
+ <g-link
+        class  = "text-red-700 hover:text-white"
+        to     = "https://bit.ly/2ZGgGSf"
+        target = "_blank"
+      >
+        Book Online For Free Tickets
+      </g-link>
+      <br /><br />
+
       <article class="text-blue-200">
    Houses over 2,600 paintings........
 <input id="read-more-national-1" class="read-more-national" type="checkbox">

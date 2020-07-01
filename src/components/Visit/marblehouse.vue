@@ -29,7 +29,7 @@
       Gardens Are Free To Visit
 <br /><br />
    
-      Opening Times: Mon To Sun<br />
+      Opening Times:<br /> Mon To Sun<br />
       7.00am To 7.30pm
 
       
