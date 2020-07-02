@@ -24,8 +24,18 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 4 July</h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £8.50 <br />Concession £6.50 <br />Children: £6.50 
+<br />Family: £24.20<br /><br />
+   
+      Opening Times: <br />Mon To Sun<br />
+      10am To 9pm  <br />Required To Book Online<br />
+
       
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>

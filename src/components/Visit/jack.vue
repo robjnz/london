@@ -24,8 +24,18 @@
         </g-link>
       </p>
 
-           <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+           <h5 class=" mb-4 text-2xl text-pink-300">Reopens 4 July</h5>
+  <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £10.00 <br />Children: £8.00 
+<br /><br />
+   
+      Opening Times: <br />Mon To Sun<br />
+      9.30am To 6.30pm  
 
+      
+
+      </h5>
 
       <g-link
         class  = "text-red-700 hover:text-white"
