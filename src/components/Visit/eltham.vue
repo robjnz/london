@@ -23,13 +23,16 @@
         </g-link>
       </p>
 
-      <h5 class="text-2xl text-pink-300">Gardens reopening 4 July</h5>
+      <h5 class="text-2xl text-pink-300">Gardens Open</h5>
+      <!--
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-        <!--Sat 4 - Sun 19 April-->
+        
       </p>
+-->
+
       <g-link
         class  = "text-red-700 hover:text-white"
         to     = "http://bit.ly/3aI2oUI"

@@ -24,8 +24,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 4 July</h5>
-      <h5 class=" mb-4 text-lg text-pink-300">personal prayer and devotion </h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Open</h5>
+      <h5 class=" mb-4 text-lg text-pink-300">For personal prayer and devotion </h5>
       
       <!--
       <p class="text-pink-300">

@@ -24,7 +24,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 4 July</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
         <h5 class=" mb-4 text-base text-orange-300">
         
       Adults: £8.50 <br />Concession £6.50 <br />Children: £6.50 

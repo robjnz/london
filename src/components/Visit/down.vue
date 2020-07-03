@@ -23,7 +23,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Gardens reopening 4 July</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Gardens Open</h5>
       
       <!--
       <p class="text-pink-300">

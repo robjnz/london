@@ -1,77 +1,89 @@
 <template>
- 
-     <div class="m-4 mt-10 p-4 w-auto rounded-lg">
-    
-    
+  <div class="m-4 mt-10 p-4 w-auto rounded-lg">
+    <h3 class="text-xl text-pink-300">
+      <span style="font-size: 1em;">
+        <i class="far fa-calendar-alt"></i>
+      </span>
+      Saturday 4 July 2020
+    </h3>
+    <h1 class="text-red-500 text-2xl">
+      <span class="text-pink-300" style="font-size: 1em;">
+        <i class="fas fa-virus"></i>
+      </span>
+      <span class="text-pink-300" style="font-size: 1em;">
+        <i class="fas fa-hands-wash"></i>
+        <i class="fas fa-people-arrows"></i>
+      </span>
+    </h1>
+    <br />
 
-      <h3 class="text-xl text-pink-300">
-        <span style="font-size: 1em;">
-          <i class="far fa-calendar-alt"></i>
-        </span>
-Friday 3 July 2020
-      </h3>
-      <h1 class="text-red-500  text-2xl">
-        <span class="text-pink-300" style="font-size: 1em;">
-          <i class="fas fa-virus"></i>
-        </span> 
-        <span class="text-pink-300" style="font-size: 1em;">
-            <i class="fas fa-hands-wash"></i>
-            <i class="fas fa-people-arrows"></i>
-        </span>
-        </h1>
-        <br />
+    <div class="grid sm:flex">
+      <batterseazoo />
+      <!--Battersea Park Children’s Zoo-->
+      <clink />
+      <!--Clink Prison Museum-->
+      <crystalV />
+      <!--Crystal Palace Park-->
+    </div>
 
-<div class="grid sm:flex">
-      <batterseazoo /><!--Battersea Park Children’s Zoo-->
-      <bethune /><!--Bethune Nature reserve-->
-      <bexley /><!--bexleyWoods-->
-      </div>
+    <div class="grid sm:flex">
+      <down />
+      <!--Down House-->
+      <epping />
+      <!--Epping Forest-->
+      <eltham />
+      <!--Eltham Palace-->
+    </div>
 
-      <div class="grid sm:flex">
-      
-      <crystalV /><!--Crystal Palace Park-->
-      <epping /><!--Epping Forest-->
-      <hall /><!--Hall Place & Gardens-->
-      </div>
+    <div class="grid sm:flex">
+      <hall />
+      <!--Hall Place & Gardens-->
+      <hampstead />
+      <!--Hampstead Heath-->
+      <jack />
+      <!--Jack The Ripper Museum-->
+    </div>
 
-      <div class="grid sm:flex">
-        <hampstead /><!--Hampstead Heath-->
-        <kenwood /><!--kenwood house-->
-        <kew /><!--Kew Gardens -->
+    <div class="grid sm:flex">
+      <kenwood />
+      <!--kenwood house-->
+      <kew />
+      <!--Kew Gardens -->
+      <zoo />
+      <!--london zoo-->
+    </div>
 
-        </div>
+    <div class="grid sm:flex">
+      <marblehouse />
+      <!--MARBLE HILL HOUSE -->
+      <morden />
+      <!--MORDEN HALL PARK-->
+      <queen />
+      <!--Queen Elizabeth Olympic Park-->
+    </div>
 
-      <div class="grid sm:flex">
-        <zoo /><!--london zoo-->
-        <marblehouse /><!--MARBLE HILL HOUSE -->
-        <morden /><!--MORDEN HALL PARK-->
-        </div>
+    <div class="grid sm:flex">
+      <regentscanal />
+      <!--Regent’s Canal-->
+      <regentspark />
+      <!--Regent’s Park-->
+      <stephens />
+      <!--Stephens house-->
+    </div>
 
-      <div class="grid sm:flex">
-        <queen /><!--Queen Elizabeth Olympic Park-->
-        <regentscanal /><!--Regent’s Canal-->
-        <regentspark /><!--Regent’s Park-->
-        </div>
+    <div class="grid sm:flex">
+      <towerbridge />
+      <!--Tower Bridge-->
+      <wandsworthcommon />
+      <!--Wandsworth Common-->
+      <wimbledoncommon />
+      <!--Wimbledon Common-->
+    </div>
 
-      <div class="grid sm:flex">
-        <roundwood /><!--Roundwood Park-->
-        <stephens /><!--Stephens house-->
-        <totteridge /><!--Totteridge fields-->
-        </div>
-
-      <div class="grid sm:flex">
-        <wandsworthcommon /><!--Wandsworth Common-->
-        <wanstead /><!--Wansted Park-->
-       <wimbledoncommon /><!--Wimbledon Common-->
-       
-      </div>
-      
-<div class="grid sm:flex">
-         <book />
-       </div>
-
-   </div>
-  
+    <div class="grid sm:flex">
+      <book />
+    </div>
+  </div>
 </template>
 
 
@@ -79,7 +91,6 @@ Friday 3 July 2020
 
 
 <script>
-
 import antioch from "@/components/Visit/antioch";
 import bexley from "@/components/Visit/bexley";
 import chingford from "@/components/Visit/chingford";
@@ -173,11 +184,11 @@ import kew from "@/components/Visit/kew";
 import morden from "@/components/Visit/morden";
 import stephens from "@/components/Visit/stephens";
 import kenwood from "@/components/Visit/kenwood";
+import clink from "@/components/Visit/clink";
+import down from "@/components/Visit/down";
+import towerbridge from "@/components/Visit/towerbridge";
 
 import book from "@/components/amazon/book";
-
-
- 
 
 export default {
   components: {
@@ -273,8 +284,10 @@ export default {
     morden,
     stephens,
     kenwood,
+    clink,
+    down,
+    towerbridge,
     book
   }
-  
 };
 </script>
