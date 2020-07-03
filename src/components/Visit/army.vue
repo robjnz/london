@@ -24,8 +24,16 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
-      
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 7 July</h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+     Admission free<br />
+     
+     <br />
+      Opening Times: Tues To Sun <br />10.30am To 3:30pm
+<br />Required To Book Online
+       
+
+     </h5>
       <!--
       <p class="text-pink-300">
         <span>

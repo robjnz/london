@@ -26,6 +26,16 @@
         </g-link>
       </p>
        <h5 class=" mb-4 text-2xl text-pink-300">Gardens Open</h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+     Admission free<br />
+     
+     <br />
+      Opening Times: Mon To Sun <br />8.00am To 6.00pm
+<br />
+       
+
+     </h5>
+
       <article class="text-blue-200">
   Grade ll listed house <br /> & landscaped gardens......<br /> 
   <input id="read-more-stephens-1" class="read-more-stephens" type="checkbox">

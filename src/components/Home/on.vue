@@ -8,7 +8,7 @@
         <span style="font-size: 1em;">
           <i class="far fa-calendar-alt"></i>
         </span>
-Thursday 2 July 2020
+Friday 3 July 2020
       </h3>
       <h1 class="text-red-500  text-2xl">
         <span class="text-pink-300" style="font-size: 1em;">
@@ -28,14 +28,15 @@ Thursday 2 July 2020
       </div>
 
       <div class="grid sm:flex">
-      <brockwell /><!--Brockwell Park-->
+      
       <crystalV /><!--Crystal Palace Park-->
       <epping /><!--Epping Forest-->
+      <hall /><!--Hall Place & Gardens-->
       </div>
 
       <div class="grid sm:flex">
-        <hall /><!--Hall Place & Gardens-->
         <hampstead /><!--Hampstead Heath-->
+        <kenwood /><!--kenwood house-->
         <kew /><!--Kew Gardens -->
 
         </div>
@@ -171,6 +172,7 @@ import zoo from "@/components/Visit/zoo";
 import kew from "@/components/Visit/kew";
 import morden from "@/components/Visit/morden";
 import stephens from "@/components/Visit/stephens";
+import kenwood from "@/components/Visit/kenwood";
 
 import book from "@/components/amazon/book";
 
@@ -270,6 +272,7 @@ export default {
     kew,
     morden,
     stephens,
+    kenwood,
     book
   }
   

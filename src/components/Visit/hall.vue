@@ -35,15 +35,15 @@
       
 
       </h5>
-
+<!--
      <br />
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-<!--Sun 22 March-->
-      </p>
 
+      </p>
+-->
 <br />
        <article class="text-blue-200">
 

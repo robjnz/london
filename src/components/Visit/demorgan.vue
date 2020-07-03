@@ -22,7 +22,18 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 3 August</h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        
+   
+      <!--Opening Times: <br />Mon To Sun<br />
+      10am To 9pm  -->
+      <br />Required To Book Online<br />
+      Tickets will go on sale on Monday 20th July
+
+      
+
+      </h5>
       
       <!--
       <p class="text-pink-300">

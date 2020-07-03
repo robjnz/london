@@ -22,7 +22,21 @@
          EC3N 4AB
         </g-link>
       </p>
-              <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+              <h5 class=" mb-4 text-2xl text-pink-300">Reopens 10 July</h5>
+               <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £25.00 <br />Concession £20.00 <br />Children: 12.50 
+      <br />Family Saver 1: £37.50 1 Adult & 3 Children<br />Family Saver 2: £62.50 2 Adults & 3 Children 
+
+
+<br /><br />
+   
+      Opening Times: <br />Wed To Sun<br />
+       10.pm To 6.00pm <br /> Required To Book Online<br />
+
+      
+
+      </h5>
 
       <g-link
         class  = "text-red-700 hover:text-white"

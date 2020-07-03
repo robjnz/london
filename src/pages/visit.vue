@@ -247,7 +247,7 @@ import forty from "@/components/Visit/north/forty";
 import jewish from "@/components/Visit/north/jewish";
 import markfield from "@/components/Visit/north/markfield";
 import stephens from "@/components/Visit/stephens";
-import airforce from "@/components/Visit/north/airforce";
+import airforce from "@/components/Visit/airforce";
 import totteridge from "@/components/Visit/north/totteridge";
 import fenton from "@/components/Visit/north/fenton";
 import zoo from "@/components/Visit/zoo";

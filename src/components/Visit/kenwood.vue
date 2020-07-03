@@ -23,8 +23,16 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Gardens Open</h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        
+     
+      Gardens Are Free To Visit<br /><br />
+      Opening Times: Mon To Sun <br />8.00am To 7:30pm
+
       
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>
