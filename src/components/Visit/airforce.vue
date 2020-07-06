@@ -26,7 +26,7 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-2xl text-pink-300">Reopens 6 July</h5>
+       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
        <h5 class=" mb-4 text-base text-orange-300">
      Admission free<br />
      

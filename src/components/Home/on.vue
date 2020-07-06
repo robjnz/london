@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-      Mon 6 July 2020
+      Monday 6 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -67,15 +67,16 @@
       <!--Regent’s Canal-->
       <regentspark />
       <!--Regent’s Park-->
-      <stephens />
-      <!--Stephens house-->
-    </div>
+      <airforce /><!--Royal Air Force Museum-->
+</div>
 
     <div class="grid sm:flex">
+      <stephens />
+      <!--Stephens house-->
+    
       <towerbridge />
       <!--Tower Bridge-->
-      <wandsworthcommon />
-      <!--Wandsworth Common-->
+      
       <wimbledoncommon />
       <!--Wimbledon Common-->
     </div>
@@ -187,6 +188,7 @@ import kenwood from "@/components/Visit/kenwood";
 import clink from "@/components/Visit/clink";
 import down from "@/components/Visit/down";
 import towerbridge from "@/components/Visit/towerbridge";
+import airforce from "@/components/Visit/airforce";
 
 import book from "@/components/amazon/book";
 
@@ -287,6 +289,7 @@ export default {
     clink,
     down,
     towerbridge,
+    airforce,
     book
   }
 };
