@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-      Monday 6 July 2020
+      Tuesday 7 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -58,8 +58,7 @@
       <!--MARBLE HILL HOUSE -->
       <morden />
       <!--MORDEN HALL PARK-->
-      <queen />
-      <!--Queen Elizabeth Olympic Park-->
+      <army /><!--National Army Museum-->
     </div>
 
     <div class="grid sm:flex">
@@ -68,15 +67,15 @@
       <regentspark />
       <!--Regent’s Park-->
       <airforce /><!--Royal Air Force Museum-->
-</div>
+    </div>
 
     <div class="grid sm:flex">
       <stephens />
       <!--Stephens house-->
-    
+
       <towerbridge />
       <!--Tower Bridge-->
-      
+
       <wimbledoncommon />
       <!--Wimbledon Common-->
     </div>
@@ -86,10 +85,6 @@
     </div>
   </div>
 </template>
-
-
-
-
 
 <script>
 import antioch from "@/components/Visit/antioch";
@@ -189,6 +184,7 @@ import clink from "@/components/Visit/clink";
 import down from "@/components/Visit/down";
 import towerbridge from "@/components/Visit/towerbridge";
 import airforce from "@/components/Visit/airforce";
+import army from "@/components/Visit/army";
 
 import book from "@/components/amazon/book";
 
@@ -290,7 +286,8 @@ export default {
     down,
     towerbridge,
     airforce,
-    book
-  }
+    army,
+    book,
+  },
 };
 </script>
