@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-      Tuesday 7 July 2020
+      Wednesday 8 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -72,12 +72,10 @@
     <div class="grid sm:flex">
       <stephens />
       <!--Stephens house-->
+      <national /><!--the national Gallery-->
 
       <towerbridge />
       <!--Tower Bridge-->
-
-      <wimbledoncommon />
-      <!--Wimbledon Common-->
     </div>
 
     <div class="grid sm:flex">
@@ -185,6 +183,7 @@ import down from "@/components/Visit/down";
 import towerbridge from "@/components/Visit/towerbridge";
 import airforce from "@/components/Visit/airforce";
 import army from "@/components/Visit/army";
+import national from "@/components/Visit/national";
 
 import book from "@/components/amazon/book";
 
@@ -287,6 +286,7 @@ export default {
     towerbridge,
     airforce,
     army,
+    national,
     book,
   },
 };
