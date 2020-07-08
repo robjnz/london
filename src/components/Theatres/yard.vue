@@ -6,7 +6,7 @@
         </span> The Yard Theatre</H2>
       <g-link href="http://bit.ly/2OYFsdx" target="_blank"
         ><g-image
-          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1584377912/werk_cfyudq.png"
+          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594204577/yarn_theatre_w8tzao.jpg"
           alt = "The Yard Theatre poster"
       /></g-link>
 

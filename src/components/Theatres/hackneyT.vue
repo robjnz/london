@@ -7,7 +7,7 @@
       <g-link href="http://bit.ly/2JnhX7Z" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1584291482/class_fxs5vx.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594203822/hackney_empire_dol68i.jpg"
           alt   = "Hackney Empire Poster"
       /></g-link>
 

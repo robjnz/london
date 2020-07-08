@@ -7,7 +7,7 @@
       <g-link href="http://bit.ly/2WkdIT0" target="_blank"
         ><g-image
        class = "w-auto h-auto"
-       src   = "@/images/theatres/march/poppins.jpg"
+       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594203495/brodway_barking_fmc7fg.jpg"
        alt   = "barking theatre poster"
       /></g-link>
        

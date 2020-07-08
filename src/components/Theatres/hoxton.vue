@@ -6,7 +6,7 @@
         </span> Hoxton Hall</H2>
       <g-link href="http://bit.ly/2EX7IsG" target="_blank"
         ><g-image
-          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1584345730/swing_fzxw7c.jpg"
+          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594203918/hockton_hall_cjieoo.jpg"
           alt = "hoxton hall poster"
       /></g-link>
 

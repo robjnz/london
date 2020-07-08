@@ -6,7 +6,7 @@
         </span> Kenneth More Theatre</H2>
       <g-link href="http://bit.ly/39VrEaj" target="_blank"
         ><g-image
-          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1584347598/bugsy_vcrkb9.png"
+          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594204063/kmt_ilford_nwn8mb.jpg"
           alt = "Kenneth More Theatre poster"
       /></g-link>
 

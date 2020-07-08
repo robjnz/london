@@ -6,7 +6,7 @@
         </span> Queen's Theatre</H2>
       <g-link href="http://bit.ly/2Soh3MB" target="_blank"
         ><g-image
-          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1583263233/maggie_xjqboy.jpg"
+          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594204179/queens_hornchurch_fkwwei.jpg"
           alt = "Queen's Theatre Hornchurch poster"
       /></g-link>
 

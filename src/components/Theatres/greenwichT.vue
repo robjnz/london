@@ -7,7 +7,7 @@
       <g-link href="http://bit.ly/2v7lp3D" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "@/images/theatres/march/paper.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594203687/greenwich_theatre_uv7ons.jpg"
           alt   = "Greenwich Theatre Poster"
       /></g-link>
 

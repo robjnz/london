@@ -6,7 +6,7 @@
         </span> Stratford East</H2>
       <g-link href="http://bit.ly/2JjU3Kr" target="_blank"
         ><g-image
-          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1584372648/nt_dl2ghn.jpg"
+          src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594204283/stratford_east_u1hkxu.jpg"
           alt = "Theatre Royal Stratford East Poster"
       /></g-link>
 
