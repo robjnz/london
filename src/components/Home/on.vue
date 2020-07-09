@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-      Thursday 9 July 2020
+      Friday 10 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -29,53 +29,54 @@
     <div class="grid sm:flex">
       <down />
       <!--Down House-->
-      <epping />
-      <!--Epping Forest-->
       <eltham />
       <!--Eltham Palace-->
-    </div>
-
-    <div class="grid sm:flex">
+    
       <hall />
       <!--Hall Place & Gardens-->
+      </div>
+
+    <div class="grid sm:flex">
       <hampstead />
       <!--Hampstead Heath-->
       <jack />
       <!--Jack The Ripper Museum-->
-    </div>
-
-    <div class="grid sm:flex">
       <kenwood />
       <!--kenwood house-->
+      </div>
+
+    <div class="grid sm:flex">
       <kew />
       <!--Kew Gardens -->
       <zoo />
       <!--london zoo-->
-    </div>
-
-    <div class="grid sm:flex">
       <marblehouse />
       <!--MARBLE HILL HOUSE -->
+      </div>
+
+    <div class="grid sm:flex">
       <morden />
       <!--MORDEN HALL PARK-->
       <army /><!--National Army Museum-->
-    </div>
-
-    <div class="grid sm:flex">
       <regentscanal />
       <!--Regent’s Canal-->
+      </div>
+
+    <div class="grid sm:flex">
       <regentspark />
       <!--Regent’s Park-->
       <airforce /><!--Royal Air Force Museum-->
-    </div>
-
-    <div class="grid sm:flex">
       <stephens />
       <!--Stephens house-->
+      </div>
+
+    <div class="grid sm:flex">
       <national /><!--the national Gallery-->
 
       <towerbridge />
       <!--Tower Bridge-->
+       <tower /><!--Tower Of London-->
+
     </div>
 
     <div class="grid sm:flex">

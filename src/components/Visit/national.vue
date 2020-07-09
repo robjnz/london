@@ -38,7 +38,7 @@
 
       </h5>
       
-      
+      <!--
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
@@ -46,7 +46,7 @@
        Thursday 9 July 2020 4:00pm<br />
       Bellini’s The Assassination of <br />Saint Peter Martyr
       </p>
-      
+      -->
  <g-link
         class  = "text-red-700 hover:text-white"
         to     = "https://bit.ly/2ZGgGSf"

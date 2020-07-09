@@ -22,7 +22,7 @@
          EC3N 4AB
         </g-link>
       </p>
-              <h5 class=" mb-4 text-2xl text-pink-300">Reopens 10 July</h5>
+              <h5 class=" mb-4 text-2xl text-pink-300"></h5>
                <h5 class=" mb-4 text-base text-orange-300">
         
       Adults: £25.00 <br />Concession £20.00 <br />Children: 12.50 
